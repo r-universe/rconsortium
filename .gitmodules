@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "S7"]
 	path = S7
-	url = https://github.com/rconsortium/oop-wg
+	url = https://github.com/rconsortium/s7
