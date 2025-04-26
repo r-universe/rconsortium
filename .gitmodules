@@ -5,3 +5,6 @@
 [submodule "S7"]
 	path = S7
 	url = https://github.com/rconsortium/s7
+[submodule "sakura"]
+	path = sakura
+	url = https://github.com/rconsortium/sakura
